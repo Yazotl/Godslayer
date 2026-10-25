@@ -290,19 +290,19 @@ if True:
     ]
     #Athena
     Athena_Assets=[
-    pygame.transform.scale(pygame.image.load("./Game_main/Athena/Athena_Idle.png"),(athena.width +20, athena.height + 20)),
-    pygame.transform.scale(pygame.image.load("./Game_main/Athena/Athena_Summon.png"), (athena.width +20, athena.height + 20)),
-    pygame.transform.scale(pygame.image.load("./Game_main/Athena/Athena_Airborne.png"), (athena.width +20, athena.height + 20)),
-    pygame.transform.scale(pygame.image.load("./Game_main/Athena/Athena_Landing.png"), (athena.width*4/3 +20, athena.height +20)),
-    pygame.transform.scale(pygame.image.load("./Game_main/Athena/Athena_Dash.png"),(athena.width + 20, athena.height + 20)),
-    pygame.transform.flip(pygame.transform.scale(pygame.image.load("./Game_main/Athena/Athena_Dash.png"),(athena.width + 20, athena.height + 20)),True,False)
+    pygame.transform.scale(pygame.image.load("./Game_Main/Athena/Athena_Idle.png"),(athena.width +20, athena.height + 20)),
+    pygame.transform.scale(pygame.image.load("./Game_Main/Athena/Athena_Summon.png"), (athena.width +20, athena.height + 20)),
+    pygame.transform.scale(pygame.image.load("./Game_Main/Athena/Athena_Airborne.png"), (athena.width +20, athena.height + 20)),
+    pygame.transform.scale(pygame.image.load("./Game_Main/Athena/Athena_Landing.png"), (athena.width*4/3 +20, athena.height +20)),
+    pygame.transform.scale(pygame.image.load("./Game_Main/Athena/Athena_Dash.png"),(athena.width + 20, athena.height + 20)),
+    pygame.transform.flip(pygame.transform.scale(pygame.image.load("./Game_Main/Athena/Athena_Dash.png"),(athena.width + 20, athena.height + 20)),True,False)
     ]
 
     #Poseidon
     Poseidon_Assets=[
-    pygame.transform.scale(pygame.image.load("./Game_main/Poseidon/Poseidon_Idle.png"),(Poseidon.width+20,Poseidon.height + 20)),
-    pygame.transform.scale(pygame.image.load("./Game_main/Poseidon/Poseidon_Summon_V1.png"),(Poseidon.width + 20, Poseidon.height + 20)),
-    pygame.transform.scale(pygame.image.load("./Game_main/Poseidon/Poseidon_Summon_V2.png"),(Poseidon.width + 20, Poseidon.height + 20))
+    pygame.transform.scale(pygame.image.load("./Game_Main/Poseidon/Poseidon_Idle.png"),(Poseidon.width+20,Poseidon.height + 20)),
+    pygame.transform.scale(pygame.image.load("./Game_Main/Poseidon/Poseidon_Summon_V1.png"),(Poseidon.width + 20, Poseidon.height + 20)),
+    pygame.transform.scale(pygame.image.load("./Game_Main/Poseidon/Poseidon_Summon_V2.png"),(Poseidon.width + 20, Poseidon.height + 20))
     ]
 
     Ares_Assets =[
